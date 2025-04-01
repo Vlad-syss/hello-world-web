@@ -8,3 +8,15 @@ just simple project
   ```
 git clone https://github.com/Vlad-syss/hello-world-web.git
 ```
+## Przykwady komend 
+ - instalacja roznych biblotek
+   ```
+   npm install here-is-your-lib
+   ```
+   ```
+   yarn add here-is-your-lib
+   ```
+   ```
+   pnpm add here-is-your-lib
+   ```
+## Mozliwosci rozszerzen
