@@ -19,4 +19,6 @@ git clone https://github.com/Vlad-syss/hello-world-web.git
    ```
    pnpm add here-is-your-lib
    ```
+- Przykłady komend (np. ./cli_fetcher --fetch --url
+https://api.example.com/data)
 ## Mozliwosci rozszerzen
